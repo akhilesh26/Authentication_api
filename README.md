@@ -2,7 +2,7 @@
 #### Prerequisites
 * Node.js, MySQL-server
 #### Follow these steps to run this project
-1. First copy the repo link `link`
+1. First copy the repo link `https://github.com/akhilesh26/Authentication_api.git`
 2. Open your terminal and run command `git clone <Paste repo link>`
 3. Change directory to the project `cd Authentication_api`
 4. Update dbConnect.js file <update mysql password and other if required>
